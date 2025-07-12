@@ -2,19 +2,6 @@
 
 This is a graphical user interface (GUI) application for tracking personal expenses using Python. Built with Tkinter and Matplotlib, it allows users to manage their spending in an interactive way.
 
-## 📷 GUI Screenshots
-
-### 📌 GUI Interface
-![Menu](gui_interface.png)
-
-### ➕ Filter 
-![Food Category](gui_category_food.png)
-
-![Saving Category](gui_category_saving.png)
-
-### 📊  Error Interface
-![Error Message](gui_error.png)
-
 ## 📌 Features
 
 - Add expenses with date, category, and amount
@@ -36,3 +23,16 @@ This is a graphical user interface (GUI) application for tracking personal expen
 1. Install `matplotlib` if not already installed:
    ```bash
    pip install matplotlib
+
+## 📷 GUI Screenshots
+
+### 📌 GUI Interface
+![Menu](gui_interface.png)
+
+### ➕ Filter 
+![Food Category](gui_category_food.png)
+
+![Saving Category](gui_category_saving.png)
+
+### 📊  Error Interface
+![Error Message](gui_error.png)

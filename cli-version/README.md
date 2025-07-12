@@ -2,16 +2,6 @@
 
 This is a simple command-line Python application for tracking daily expenses. It allows users to log, view, and analyze their expenses directly through a terminal.
 
-## 📷 CLI Screenshots
-
-### 📌 Menu Interface & Add Expense Interface
-![Menu](cli_screenshot_1.png)
-
-
-### 📊 Pie Chart Output
-![Pie Chart](cli_screenshot_2.png)
-
-
 ## 📌 Features
 
 - Add expenses (date, category, amount)
@@ -33,3 +23,13 @@ This is a simple command-line Python application for tracking daily expenses. It
 1. Install required library:
    ```bash
    pip install matplotlib
+
+## 📷 CLI Screenshots
+
+### 📌 Menu Interface & Add Expense Interface
+![Menu](cli_screenshot_1.png)
+
+
+### 📊 Pie Chart Output
+![Pie Chart](cli_screenshot_2.png)
+
